@@ -1,7 +1,7 @@
 # Olá, me chamo [Renato Anjo da Silva](https://www.linkedin.com/in/renato-anjo/)
 ## feliz em recebê-lo aqui
 
-Tenho 28 anos, sou um dev frontend junior e um background em Metalmecânica voltado para Desenvolvimento de Máquinas Especiais e Automação Industrial. E também um entusiasta da tecnologia, amo andar de bicicleta, natureza e tocar saxofone tenor/flauta.
+Tenho 28 anos, estou estudando para me tornar dev frontend e um background em Metalmecânica voltado para Desenvolvimento de Máquinas Especiais e Automação Industrial. E também um entusiasta da tecnologia, amo andar de bicicleta, natureza e tocar saxofone tenor e flauta trasnversal.
 
 <div align='center'>
   <h2>
@@ -37,22 +37,21 @@ Tenho 28 anos, sou um dev frontend junior e um background em Metalmecânica volt
   ### 📞 Entre em contato comigo !
  <div>
 <hr>
-  <div align='center'>
-
-<a href="https://www.linkedin.com/in/renato-anjo/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="162" height="42" />
-</a>
-<a href="https://www.facebook.com/anjo3003" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" width="162" height="42" />
-</a>
-<a href="mailto:renato_anjo.s@hotmail.com" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="162" height="42" />
-</a>
-
+  <div>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/renato-anjo/" target="_blank" rel="noreferrer">
+        LinkedIn
+        </a></li>
+        <li><a href="mailto:renato_anjo.s@hotmail.com" target="_blank" rel="noreferrer">
+        E-mail</li>
+        <li><a href="https://www.facebook.com/anjo3003" target="_blank" rel="noreferrer">
+        Facebook
+        </a></li>
+    </ul>
 </div>
   
 </div>
-  <br><br><br>
+  <br>
    <div align='center'>
 <a height="150em" href="http://www.github.com/RenatoAnjo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoAnjo&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
