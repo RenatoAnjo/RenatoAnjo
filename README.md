@@ -16,8 +16,8 @@ Tenho 28 anos, estou estudando para me tornar dev frontend e um background em Me
 ## :chart_with_upwards_trend: Minhas estatísticas
 
 <div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenatoAnjo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoAnjo&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RenatoAnjo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoAnjo&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
  ##  :bookmark_tabs: Minhas Skill's 
@@ -39,12 +39,12 @@ Tenho 28 anos, estou estudando para me tornar dev frontend e um background em Me
 <hr>
   <div>
     <ul>
-        <li><a href="https://www.linkedin.com/in/renato-anjo/" target="_blank" rel="noreferrer">
+        <li><a href="https://www.linkedin.com/in/renato-anjo/"  style="text-decoration: none" target="_blank" rel="noreferrer">
         LinkedIn
         </a></li>
-        <li><a href="mailto:renato_anjo.s@hotmail.com" target="_blank" rel="noreferrer">
+        <li><a href="mailto:renato_anjo.s@hotmail.com"  style="text-decoration: none" target="_blank" rel="noreferrer">
         E-mail</li>
-        <li><a href="https://www.facebook.com/anjo3003" target="_blank" rel="noreferrer">
+        <li><a href="https://www.facebook.com/anjo3003"  style="text-decoration: none" target="_blank" rel="noreferrer">
         Facebook
         </a></li>
     </ul>
