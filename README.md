@@ -1,4 +1,17 @@
-### Hi there 👋
+# Olá, me chamo [Renato Anjo da Silva](https://www.linkedin.com/in/renato-anjo/)
+## feliz em recebê-lo aqui
+
+Tenho 28 anos, sou um dev frontend e um background em Metalmecânica voltado para Desenvolvimento de Máquinas Especiais voltado para Automação Industrial. E também um entusiasta da tecnologia, amo andar de bicicleta, natureza e tocar saxofone tenor/flauta.
+
+<div align='center'>
+  <h2>
+    <a
+    target="_blank"
+    style="text-decoration: none"
+    href="https://github.com/RenatoAnjo?tab=stars"
+    >Acesse meus repositórios</a>
+  </h2>
+</div>
 
 <div>
   <a href="https://github.com/RenatoAnjo">
