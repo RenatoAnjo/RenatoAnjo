@@ -1,8 +1,15 @@
 # Olá, me chamo [Renato Anjo da Silva](https://www.linkedin.com/in/renato-anjo/)
 ## feliz em recebê-lo aqui
 
-Tenho 28 anos, estou estudando para me tornar dev frontend e um background em Metalmecânica voltado para Desenvolvimento de Máquinas Especiais e Automação Industrial. E também um entusiasta da tecnologia, amo andar de bicicleta, natureza e tocar saxofone tenor e flauta trasnversal.
-
+<ul> 
+<li>Tenho 28 anos</li>
+<li>Estou estudando para me tornar dev frontend</li>
+<li>Tenho background em Metalmecânica voltado para Desenvolvimento de Máquinas Especiais e Automação Industrial</li>
+<li>Entusiasta da tecnologia</li>
+<li>Amo andar de bicicleta e moto</li>
+<li>Amo a natureza</li>
+<li>Hobbies Tocar Saxofone Tenor e Flauta Trasnversal.</li>
+</ul>
 <div align='center'>
   <h2>
     <a
@@ -15,12 +22,13 @@ Tenho 28 anos, estou estudando para me tornar dev frontend e um background em Me
 
 ## :chart_with_upwards_trend: Minhas estatísticas
 
-<div align='center'>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RenatoAnjo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoAnjo&layout=compact&langs_count=7&theme=blue-green"/>
+<div align="center">
+  <a href="https://github.com/RenatoAnjo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenatoAnjo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoAnjo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- ##  :bookmark_tabs: Minhas Skill's 
+ ##  :bookmark_tabs: Estou me aprofundando no momento: 
  
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,10 +36,6 @@ Tenho 28 anos, estou estudando para me tornar dev frontend e um background em Me
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
  
- <br>
- 
- ## :rocket: Estou me aprofundando no momento:
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <br>
  
   ### 📞 Entre em contato comigo !
