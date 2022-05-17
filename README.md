@@ -22,11 +22,10 @@
 
 ## :chart_with_upwards_trend: Minhas estatísticas
 
-<div align="center">
-  <a href="https://github.com/RenatoAnjo">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RenatoAnjo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoAnjo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
+  ![Renato Anjo GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoAnjo&show_icons=true&theme=dark)<br>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoAnjo&layout=compact&langs_count=7&theme=dark"/>
+
 
  ##  :bookmark_tabs: Estou me aprofundando no momento: 
  
