@@ -6,8 +6,7 @@
 <li>Estou estudando para me tornar dev frontend</li>
 <li>Tenho background em Metalmecânica voltado para Desenvolvimento de Máquinas Especiais e Automação Industrial</li>
 <li>Entusiasta da tecnologia</li>
-<li>Amo andar de bicicleta e moto</li>
-<li>Amo viajar e curtir a beleza da natureza</li>
+  <li>Amo andar de bicicleta e moto</li>
 <li>Hobbies: ouvir uma boa música e tocar saxofone/flauta</li>
 </ul>
 <div align='center'>
@@ -57,7 +56,7 @@
   
 </div>
 
-## 🔥  Estatíticas de Sequência
+## 🔥  Estatíticas de Sequência:
   <br>
    <p align="center">
   <a href="https://github.com/RenatoAnjo/github-readme-streak-stats">
