@@ -56,7 +56,7 @@
   
 </div>
 
-## 🔥  Estatíticas de Sequência:
+## 🔥  Estatísticas de Sequência:
   <br>
    <p align="center">
   <a href="https://github.com/RenatoAnjo/github-readme-streak-stats">
