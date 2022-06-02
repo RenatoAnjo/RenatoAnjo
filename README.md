@@ -1,5 +1,5 @@
 # Olá, me chamo [Renato Anjo da Silva](https://www.linkedin.com/in/renato-anjo/)
-## feliz em recebê-lo aqui
+## feliz em recebê-lo !!!!
 
 <ul> 
 <li>Tenho 28 anos</li>
@@ -22,10 +22,10 @@
 ## :chart_with_upwards_trend: Minhas estatísticas
 
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=RenatoAnjo&show_icons=true&theme=vision-friendly-dark" alt="RenatoAnjo stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoAnjo&layout=compact&theme=vision-friendly-dark" alt="RenatoAnjo most languages"/>
-</p>
+<div align='center'>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenatoAnjo&show_icons=true&theme=vision-friendly-dark" alt="RenatoAnjo stats"/>
+<img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoAnjo&layout=compact&theme=vision-friendly-dark" alt="RenatoAnjo most languages"/>
+</div>
 
 
 
@@ -56,11 +56,12 @@
   
 </div>
 
+<!--
 ## 🔥  Estatísticas de Sequência:
   <br>
    <p align="center">
   <a href="https://github.com/RenatoAnjo/github-readme-streak-stats">
     <img title="🔥 Get streak stats RenatO Anjo" alt="Renato Anjo streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoAnjo&theme=highcontrast&hide_border=true"/>
-  </a>
+  </a> -->
 
 </div>
