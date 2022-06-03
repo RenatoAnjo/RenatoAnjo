@@ -24,7 +24,7 @@
 
 <div align='center'>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenatoAnjo&show_icons=true&theme=vision-friendly-dark" alt="RenatoAnjo stats"/>
-<img height="180m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoAnjo&layout=compact&theme=vision-friendly-dark" alt="RenatoAnjo most languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoAnjo&layout=compact&theme=vision-friendly-dark" alt="RenatoAnjo most languages"/>
 </div>
 
 
