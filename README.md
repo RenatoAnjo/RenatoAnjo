@@ -3,7 +3,7 @@
 
 <ul> 
 <li>Tenho 28 anos</li>
-<li>Estou estudando para me tornar dev frontend</li>
+<li>Estou focado no desenvolvimento web frontend</li>
 <li>Tenho background em Metalmecânica voltado para Desenvolvimento de Máquinas Especiais e Automação Industrial</li>
 <li>Entusiasta da tecnologia</li>
   <li>Amo andar de bicicleta e moto</li>
